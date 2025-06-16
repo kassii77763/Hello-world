@@ -1,0 +1,5 @@
+{
+  "name": "WriteWise RedPen Demo",
+  "description": "An application that provides AI-powered text proofreading with handwritten-style feedback.",
+  "requestFramePermissions": []
+}
