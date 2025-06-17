@@ -1,6 +1,6 @@
 // /api/gemini.ts
 
-import type { VercelRequest, VercelResponse } from '@vercel/node';
+import type { VercelRequest, VercelResponse } from te;
 import { GoogleGenAI } from "@google/genai";
 
 // Vercelの環境変数からAPIキーを安全に読み込む

@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
       // ↓ この一行を追加します
-      base: "/Hello-world/",
+      //base: "/Hello-world/",
 
       define: {
         'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY),
