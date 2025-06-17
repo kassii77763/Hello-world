@@ -113,3 +113,4 @@ WriteWise RedPen Demoは、AIを活用した文章校正機能と、ユニーク
 
 
 このREADMEは、WriteWise RedPen Demoアプリケーションの概要を提供します。機能の探索をお楽しみください！
+
